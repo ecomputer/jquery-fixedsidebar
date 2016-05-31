@@ -1,0 +1,27 @@
+{
+  "name": "jquery-fixedsidebar",
+  "version": "0.2.2",
+  "description": "A jQuery plugin to help you making a sidebar always visible, and fluid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecomputer/jquery-fixedsidebar.git"
+  },
+  "keywords": [
+    "jquery",
+    "sidebar",
+    "fixed",
+    "fluid",
+    "responsive",
+    "utils"
+  ],
+  "author": "Pablo Largo <devnix.code@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ecomputer/jquery-fixedsidebar/issues"
+  },
+  "homepage": "https://github.com/ecomputer/jquery-fixedsidebar#readme"
+}
